@@ -1,3 +1,5 @@
+![logo_transparent_background](https://user-images.githubusercontent.com/15046219/167154553-9da0758f-c419-496c-a6e5-5c3c46169232.png)
+
 # Documentazione API per l'integrazione della piattaforma app.badgeitalia.it
 ![image](https://user-images.githubusercontent.com/15046219/166956263-a189f454-bd60-4de8-b947-5265875ad8ba.png)
 
