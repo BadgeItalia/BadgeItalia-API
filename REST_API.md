@@ -19,6 +19,9 @@ Per utilizzare queste api è necessario avere un token di autenticazione. Le api
 - Badge (rappresenta il badge rilasciabile agli utenti)
 - Assertion (rappresenta il rilascio di un badge ad un utente)
 
+### HOST di chiamata:
+ `https://app.badgeitalia.it`
+
 ## Come ottenere il token di autenticazione:
 
 **URL** : `/apiv1/token/`
