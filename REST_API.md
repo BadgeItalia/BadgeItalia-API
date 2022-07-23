@@ -1,6 +1,7 @@
-![logo_transparent_background](https://user-images.githubusercontent.com/15046219/167154553-9da0758f-c419-496c-a6e5-5c3c46169232.png)
+![logo_transparent_background](https://user-images.githubusercontent.com/15046219/180617658-e609643a-5872-4a83-a115-ab4936d1dd8c.png)
 
-# Documentazione API per l'integrazione della piattaforma app.badgeitalia.it
+
+# Documentazione API per l'integrazione della piattaforma app.badgehub.net
 ![image](https://user-images.githubusercontent.com/15046219/166956263-a189f454-bd60-4de8-b947-5265875ad8ba.png)
 
 Questa documentazione è in riferimento alle api offerte dalla piattaforma per lo svolgimento delle seguenti attività:
@@ -22,7 +23,7 @@ Per utilizzare queste api è necessario avere un token di autenticazione. Le api
 - Assertion (rappresenta il rilascio di un badge ad un utente)
 
 ### HOST di chiamata:
- `https://app.badgeitalia.it`
+ `https://app.badgehub.net`
 
 ## Come ottenere il token di autenticazione:
 
