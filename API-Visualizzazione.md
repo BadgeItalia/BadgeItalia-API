@@ -1,4 +1,4 @@
-# Documentazione API per app.badgeitalia.it
+# Documentazione API per app.badgehub.net
 
 Questa documentazione è in riferimento alle api offerte per la visualizzazione generale dei dati, da utilizzarsi esclusivamente nelle pagine di front-end. Non hanno nulla a che vedere con le api di servizio esposte per i singoli issuer e non permettono di operare direttamente con la piattaforma.
 
